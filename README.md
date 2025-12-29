@@ -1,19 +1,87 @@
-# React + Vite
+🚀 Abrar Mahabub — Web Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi! I'm **Abrar Mahabub**, a passionate web developer who loves crafting clean, responsive, and user‑friendly web experiences. I build modern web interfaces using **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **React**, and I manage my workflow with **Git & GitHub**.
 
-Currently, two official plugins are available:
+🛠️ Technologies & Tools
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend Development
 
-## React Compiler
+* HTML5 — semantic, accessible structures.
+* CSS3 — modern layouts with Flexbox & Grid.
+* Tailwind CSS — utility‑first, responsive UI design.
+* JavaScript (ES6+) — dynamic and interactive web apps.
+* React.js — component‑based UI development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Version Control
 
-## Expanding the ESLint configuration
+* Git — branching, merging, CLI workflows.
+* GitHub — collaboration, pull requests, project hosting.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🌟 What I Do
+
+* Build responsive, mobile‑first websites
+* Develop interactive UI components
+* Create reusable React components
+* Design clean, minimal and modern user interfaces with Tailwind
+* Maintain optimized and scalable front‑end codebases
 
 
-Live Preview : https://abrarmahabub125.github.io/task-management-app/
+🚧 Current Focus
+
+* Scaling my React knowledge
+* Improving reusable UI component design
+* Enhancing Tailwind CSS utilities and design systems
+
+📬 Contact
+
+If you'd like to collaborate or just say hi:
+
+* GitHub: [https://github.com/your-username](https://github.com/abrarmahabub125)
+* Email: [your-email@example.com](mailto:abrarmahabub404@gmail.com)
+* Live Preview : 🚀 Abrar Mahabub — Web Developer
+
+Hi! I'm **Abrar Mahabub**, a passionate web developer who loves crafting clean, responsive, and user‑friendly web experiences. I build modern web interfaces using **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **React**, and I manage my workflow with **Git & GitHub**.
+
+🛠️ Technologies & Tools
+
+Frontend Development
+
+* HTML5 — semantic, accessible structures.
+* CSS3 — modern layouts with Flexbox & Grid.
+* Tailwind CSS — utility‑first, responsive UI design.
+* JavaScript (ES6+) — dynamic and interactive web apps.
+* React.js — component‑based UI development.
+
+Version Control
+
+* Git — branching, merging, CLI workflows.
+* GitHub — collaboration, pull requests, project hosting.
+
+
+🌟 What I Do
+
+* Build responsive, mobile‑first websites
+* Develop interactive UI components
+* Create reusable React components
+* Design clean, minimal and modern user interfaces with Tailwind
+* Maintain optimized and scalable front‑end codebases
+
+
+🚧 Current Focus
+
+* Scaling my React knowledge
+* Improving reusable UI component design
+* Enhancing Tailwind CSS utilities and design systems
+
+📬 Contact
+
+If you'd like to collaborate or just say hi:
+
+* GitHub: [https://github.com/your-username](https://github.com/abrarmahabub125)
+* Email: [your-email@example.com](mailto:abrarmahabub404@gmail.com)
+* Live Preview : t https://abrarmahabub125.github.io/ticket-management-app/
+
+  
+💡 Thanks for checking out my work! Feel free to star ⭐ any repo you like — it keeps me motivated.
+
